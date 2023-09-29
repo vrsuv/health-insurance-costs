@@ -1,2 +1,2 @@
 # Machine learning model
-ML model to analyse and predict health insurance costs
+ML model to analyse and predict health insurance costs using regression
